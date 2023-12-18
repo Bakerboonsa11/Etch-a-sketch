@@ -1,0 +1,53 @@
+html{
+    font-size: 62.5%;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+.container{ 
+    max-width:  60rem;
+     /* background-color: aqua;  */
+   max-height: 60rem;
+    margin:0 auto; 
+    overflow: hidden;
+}
+body{
+    padding: 20rem 10rem;
+    /* background: linear-gradient(to right,#750E21,#191919);  */
+    background: linear-gradient(to right,#005B41, #232D3F); 
+    
+   
+}
+.field_container{
+    margin-bottom: 4rem;
+    margin-left: 40rem;
+} 
+
+
+/* below */
+
+.input{
+    max-width: 30rem;
+    height: 2.5rem;
+    border: none;
+    border: 3px solid grey;
+    border-radius: 2px;
+    /* margin-left: 8rem; */
+    color:  #232D3F;
+    margin-right: 0.5rem;
+    font-weight: 900;
+    font-size: 18px;
+    text-align: center;
+}
+.btn{
+    width: 10rem;
+    border: 3px solid grey;
+    border-radius: 1rem;
+    color: # #232D3F;
+    font-size: 2rem;
+    font-weight: 900;
+}
