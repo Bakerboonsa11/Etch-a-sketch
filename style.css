@@ -14,11 +14,13 @@ html{
    max-height: 60rem;
     margin:0 auto; 
     overflow: hidden;
+    border-radius: 1rem;
+    border: 1rem solid white;
 }
 body{
     padding: 20rem 10rem;
     /* background: linear-gradient(to right,#750E21,#191919);  */
-    background: linear-gradient(to right,#005B41, #232D3F); 
+    background: linear-gradient(to right,#026146, #232D3F); 
     
    
 }
@@ -47,7 +49,7 @@ body{
     width: 10rem;
     border: 3px solid grey;
     border-radius: 1rem;
-    color: # #232D3F;
+    color: #232D3F;
     font-size: 2rem;
     font-weight: 900;
 }
