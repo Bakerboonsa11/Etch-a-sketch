@@ -53,6 +53,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
   displayShape();
 
+
+  
   button.addEventListener("click", function(e) {
     container.innerHTML = "";
     e.preventDefault();

@@ -22,11 +22,12 @@ body{
     /* background: linear-gradient(to right,#750E21,#191919);  */
     background: linear-gradient(to right,#026146, #232D3F); 
     
+    
    
 }
 .field_container{
     margin-bottom: 4rem;
-    margin-left: 40rem;
+    margin-left: 2rem;
 } 
 
 
@@ -34,7 +35,7 @@ body{
 
 .input{
     max-width: 30rem;
-    height: 2.5rem;
+    height: 3rem;
     border: none;
     border: 3px solid grey;
     border-radius: 2px;
