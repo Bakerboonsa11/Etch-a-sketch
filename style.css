@@ -7,6 +7,12 @@ html{
   box-sizing: border-box;
   
 }
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
 
 .container{ 
     max-width:  60rem;
@@ -26,8 +32,8 @@ body{
    
 }
 .field_container{
-    margin-bottom: 4rem;
-    margin-left: 2rem;
+    /* margin-bottom: 4rem;
+    margin-left: 2rem; */
 } 
 
 
