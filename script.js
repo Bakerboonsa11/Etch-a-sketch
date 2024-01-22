@@ -51,23 +51,23 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   }
 
-  displayShape();
+    displayShape();
 
 
   
   button.addEventListener("click", function(e) {
-    container.innerHTML = "";
-    e.preventDefault();
-    n = input.value;
-    displayShape();
+      container.innerHTML = "";
+      e.preventDefault();
+      n = input.value;
+      displayShape();
   });
 
   input.addEventListener("keydown", function(event) {
-    if (event.key === "Enter") {
-      container.innerHTML = "";
-      event.preventDefault();
-      n = input.value;
-      displayShape();
-    }
+      if (event.key === "Enter") {
+        container.innerHTML = "";
+        event.preventDefault();
+        n = input.value;
+        displayShape();
+      }
   });
 });
