@@ -16,15 +16,15 @@ html{
 
 .container{ 
     max-width:  60rem;
-   max-height: 60rem;
+    max-height: 60rem;
     margin:0 auto; 
     overflow: hidden;
-    border-radius: 1rem;
-    border: 1rem solid white;
+    border-radius: 10px;
+    border: 4px solid white;
 }
 body{
     padding: 20rem 10rem;
-    background: linear-gradient(to right,#026146, #232D3F); 
+    background: linear-gradient(to right,#16f1b3, hsl(172, 23%, 36%)); 
 }
 
 
