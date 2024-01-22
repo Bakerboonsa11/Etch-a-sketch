@@ -29,7 +29,7 @@ body{
 
 
 
-/* below */
+
 
 .input{
     max-width: 30rem;
@@ -37,7 +37,6 @@ body{
     border: none;
     border: 3px solid grey;
     border-radius: 2px;
-    /* margin-left: 8rem; */
     color:  #232D3F;
     margin-right: 0.5rem;
     font-weight: 900;
