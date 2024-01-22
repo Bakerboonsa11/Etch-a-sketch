@@ -16,7 +16,6 @@ html{
 
 .container{ 
     max-width:  60rem;
-     /* background-color: aqua;  */
    max-height: 60rem;
     margin:0 auto; 
     overflow: hidden;
@@ -25,16 +24,9 @@ html{
 }
 body{
     padding: 20rem 10rem;
-    /* background: linear-gradient(to right,#750E21,#191919);  */
     background: linear-gradient(to right,#026146, #232D3F); 
-    
-    
-   
 }
-.field_container{
-    /* margin-bottom: 4rem;
-    margin-left: 2rem; */
-} 
+
 
 
 /* below */
